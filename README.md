@@ -1,2 +1,2 @@
 # kungao.github.io
-Welcome to my home!
+Welcome to my homepage!
